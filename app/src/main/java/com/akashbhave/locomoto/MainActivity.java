@@ -1,4 +1,4 @@
-package com.akashbhave.locomoto;
+package com.kushagrasharma.dash;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
